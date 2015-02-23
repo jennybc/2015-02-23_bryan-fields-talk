@@ -3,7 +3,7 @@ Talk at Workshop on Visualization for Big Data: Strategies and Principles, Field
 
 <http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/visualization/>
 
-*PDF of slides will go here*
+PDF of slides [here](2015-02_bryan-fields-talk.pdf)
 
 Links
 ========================================================
