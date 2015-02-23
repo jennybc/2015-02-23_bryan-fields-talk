@@ -106,7 +106,6 @@ __Rough__ notes on GitHub usage in STAT 545: <http://stat545-ubc.github.io/bit00
 
 R Graph Catalog: <http://shinyapps.stat.ubc.ca/r-graph-catalog/>
 
-<<<<<<< HEAD
 A few Shiny apps by STAT 545 students:
 
   * <http://shinyapps.stat.ubc.ca/daattali/cancer-data/>
@@ -117,6 +116,4 @@ A few Shiny apps by STAT 545 students:
   * <https://github.com/STAT545-UBC/zz_dustin_johnson-coursework/tree/master/HW11_Shiny-App>
   * <https://jordanbrace.shinyapps.io/Gapminder-Appybara/>
   * <https://github.com/STAT545-UBC/zz_jordan_brace-coursework/tree/master/Shiny-apps/Gapminder-app/Gapminder-Project>
-=======
-*add bookmarks for a few STAT 545 shiny apps*
->>>>>>> a3981f7cd6484ad24de055a09d9ed1d818c9f571
+
