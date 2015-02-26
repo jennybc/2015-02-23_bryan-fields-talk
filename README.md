@@ -5,6 +5,8 @@ Talk at Workshop on Visualization for Big Data: Strategies and Principles, Field
 
 PDF of slides [here](2015-02_bryan-fields-talk.pdf)
 
+[PDF of slides on SpeakerDeck](https://speakerdeck.com/jennybc/new-tools-and-workflows-for-data-analysis)
+
 *experiment: can you embed from speakerdeck here?*
 
 <script async class="speakerdeck-embed" data-id="7ef5dfb816524cf2a33422c1fb226a12" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
