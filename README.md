@@ -25,7 +25,7 @@ STAT 545: <http://stat545-ubc.github.io>
 
 2014-08-17 NYT article [For Big-Data Scientists:, 'Janitor Work' Is Key Hurdle to Insights](http://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html?partner=rss&emc=rss&smid=tw-nytimesscience&_r=0) by Steve Lohr
 
-[Data carpentry](http://mimno.infosci.cornell.edu/b/articles/carpentry/) blog post by David Minmo (response to NYT article re: janitor work)
+[Data carpentry](http://mimno.infosci.cornell.edu/b/articles/carpentry/) blog post by David Mimno (response to NYT article re: janitor work)
 
 Daring Fireball's [markdown page](http://daringfireball.net/projects/markdown/). Kind of where it all begins, but other references that are more recent and specific to our context are more relevant.
 
@@ -93,7 +93,7 @@ GitHub repos from government, media, and more
   * https://github.com/propublica/
   * http://ncip.github.io (NCI’s informatics program)
   * https://github.com/LSST (Large Synoptic Survey Telescope)
-  * https://github.com/ctb (Titus Brown lab)
+  * https://github.com/ged-lab/ (Titus Brown lab)
   * https://github.com/lh3 (Heng Li lab)
   * https://github.com/cms-sw/cmssw
   * https://github.com/18f
