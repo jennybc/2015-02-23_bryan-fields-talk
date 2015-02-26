@@ -3,13 +3,10 @@ Talk at Workshop on Visualization for Big Data: Strategies and Principles, Field
 
 <http://www.fields.utoronto.ca/programs/scientific/14-15/bigdata/visualization/>
 
-PDF of slides [here](2015-02_bryan-fields-talk.pdf)
+Want to see the slides?
 
-[PDF of slides on SpeakerDeck](https://speakerdeck.com/jennybc/new-tools-and-workflows-for-data-analysis)
-
-*experiment: can you embed from speakerdeck here?*
-
-<script async class="speakerdeck-embed" data-id="7ef5dfb816524cf2a33422c1fb226a12" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+  * PDF is in this repo: [2015-02_bryan-fields-talk.pdf](2015-02_bryan-fields-talk.pdf)
+  * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/new-tools-and-workflows-for-data-analysis)
 
 Links
 ========================================================
