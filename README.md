@@ -104,6 +104,7 @@ GitHub repos from government, media, and more
   * https://github.com/USGS-R
   * https://github.com/USEPA
   * https://github.com/nzherald
+  * https://github.com/showcases/government
 
 __Rough__ notes on GitHub usage in STAT 545: <http://stat545-ubc.github.io/bit004_stat545-use-of-github.html>
 
