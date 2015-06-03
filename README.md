@@ -7,6 +7,10 @@ Want to see the slides?
 
   * PDF is in this repo: [2015-02_bryan-fields-talk.pdf](2015-02_bryan-fields-talk.pdf)
   * View same over [on SpeakerDeck](https://speakerdeck.com/jennybc/new-tools-and-workflows-for-data-analysis)
+  
+Want to see a video of the talk?
+
+  * Go to the [FieldsLive video archive for this workshop](http://www.fields.utoronto.ca/video-archive/event/318/2015)
 
 Links
 ========================================================
